@@ -1,0 +1,7 @@
+Host Name: Arwa-Laptop
+---- Here is the information of the Host device  :
+Host Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+Host System: Windows
+--- Host device IP Addresses  :
+Host Private IP Address: Arwa-Laptop
+Host Public IP Address: 2a02:cb80:401f:a125:c0c2:fe1c:879:eef9
